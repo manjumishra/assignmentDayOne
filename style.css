@@ -1,0 +1,140 @@
+.box{
+    border: 1px solid lightgray;
+    width: 500px;
+    padding: 110px 40px;
+    margin: 50px auto;
+    border-radius: 14px;
+    font-weight: bold;
+    background-color: rgb(64, 238, 171);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.box-heading{
+    font-size: 50px;
+}
+
+.btn{
+    border: none;
+    background-color: white;
+    border-radius: 60px;
+    padding: 14px 30px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.profile{
+    border: 1px solid lightgray;
+    width: 350px;
+    padding: 50px 30px;
+    margin: 40px auto;
+    border-radius: 14px;
+}
+
+.img{
+    border-radius: 50%;
+    width: 30%;
+    padding: 50px 30px;
+}
+.profile-btn{
+    border-top: 1px solid lightgray;
+    font-size: 15px;
+    font-weight: bolder;
+    width: 100%;
+    color:mediumslateblue;
+}
+
+.third{
+    margin: 80px auto;
+    border-radius: 10px;
+    width: 450px;
+    font-family: sans-serif;
+}
+
+.pho{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 100%
+}
+.thead{
+    padding-left: 15px;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.ttext{
+    padding-left: 15px;
+    margin-top: 5px;
+    color: grey;
+}
+.sub{
+    width: 50%;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+.third{
+    border: 1px solid grey
+}
+.dclick{
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+    border: 1px grey solid;
+    color: #2679e9;
+    background-color: white;
+    padding: 10px;
+    width: 120px;
+}
+
+
+.fourth{
+
+    border-top: 1px solid grey;
+    font-family: Arial, Helvetica, sans-serif;
+    align-content: center;
+    text-align: center;
+    margin: 25px auto;
+}
+
+.mid-one{
+    font-weight: bold;
+}
+
+.email{
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 15px;
+    width: 300px;
+    border-color: grey;
+    border-width: 1px;
+}
+
+.pass{
+    border-radius: 10px;
+    padding: 15px;
+    width: 300px;
+    margin-top:10px;
+    border-color: grey;
+    border-width: 1px;
+}
+
+.login{
+    background-color: black;
+    color: white;
+    padding: 13px;
+    width: 180px;
+    border-radius: 20px;
+    margin-top: 25px;
+    border-width: 0px;
+
+}
+
+.mid-two{
+    margin-top:30px;
+    color:grey;
+}
+
+.mid-thr{
+    margin-top:30px;
+    color:grey;
+}
